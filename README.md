@@ -24,3 +24,9 @@ J’ai maintenant accès à mon PC fixe, je peux débuter la configuration du r�
     Captures d’écran de chaque étape importante
     Fiche technique et compte-rendu de configuration
     Rapport ou présentation PowerPoint du projet
+
+
+Licence :
+
+Projet distribué sous licence MIT.
+Voir le fichier LICENSE pour plus d’informations.
