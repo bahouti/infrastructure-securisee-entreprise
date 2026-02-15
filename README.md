@@ -29,4 +29,5 @@ J’ai maintenant accès à mon PC fixe, je peux débuter la configuration du r�
 Licence :
 
 Projet distribué sous licence MIT.
+
 Voir le fichier LICENSE pour plus d’informations.
