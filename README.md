@@ -64,7 +64,7 @@ Ce projet simule le travail d’un administrateur système et réseau : concepti
 
 ## 📎 Résultats et documents
 
-Des détails supplémentaires et les configurations sont disponibles dans les autres fichiers du dépôt.
+La documentation détaillée du projet (schémas réseau, configurations et rapport complet) est disponible sur demande.
 
 ---
 
